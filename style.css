@@ -1,0 +1,63 @@
+body.sign-in {
+    background-color:aquamarine;
+}
+
+.container.sign-in-container {
+    margin-top: 10%;
+    margin-left: 20%;
+
+
+}
+
+.card.sign-in-card {
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+}
+
+.submit-btn {
+    margin-left: 80px;
+}
+
+.card-body form button a {
+    color: azure;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.modal button a {
+    color: azure;
+}
+
+.adjustFooterImg {
+    width: 50%;
+}
+
+.borderAround {
+
+    border: 1px solid black;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px 5px rgba(0,0,0,.5);
+}
+
+.footer {
+    margin-top: 50px;
+    background-color: black;
+}
+
+.fa-facebook-square {
+    color: #4267B2;
+}
+
+.fa-google-plus-square {
+    color:#DB4437;
+}
+
+.socialWrapper {
+    margin: auto;
+}
+
+.fa {
+    margin: 10px;
+}
